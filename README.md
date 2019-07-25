@@ -1,2 +1,2 @@
 # RestAPI-in-NODEJS
-![alt text](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
+![alt text](https://miro.medium.com/max/730/1*d2zLEjERsrs1Rzk_95QU9A.png)
